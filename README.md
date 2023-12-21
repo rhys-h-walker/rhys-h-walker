@@ -4,7 +4,7 @@ Welcome to my GitHub profile.
 ## About Me
 Im a 19 year old student studying at the University Of Kent. This is my personal page for code that I work on in my spare time. Anything related to my course won't be worked on publicly here.  
 
-I've been interested in coding for about 8-9 years now and I've used multiple languages in this time. My interest started in year 7 when I was introduced to python and this was my main language for the btter part of my coding career.
+I've been interested in coding for about 8-9 years now and I've used multiple languages in this time. My interest started in year 7 when I was introduced to python and this was my main language for the better part of my coding career.
 
 ### Laguages I've Used
 - Python
