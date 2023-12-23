@@ -28,7 +28,7 @@ A list of projects current and past that I have worked on. Anything marked as a 
 
 - Rice Utilities. The aim for this project is to be a collection of different helpful functions that will assist in the development of future projects. Either copying them over into the new project or adding that java file into the directory for the new project. *Most likely will always be being worked on*
 
-- Point-Of-Sale. The aim of this project is to teach myself about JFX. The goal is to emulate a POS system. There will be no database behind this for the moment until I learn how to implement one of these with java for now it will use json files. This is a very early doors project and something that im excited to work on.
+- ricepos. This is an attempt to make a mock point of sale application. The aim of this project is to teach myself about JFX. There will be no database behind this it will use json files. This is a very early doors project and something that im excited to work on.
 
 ### Past
 - Multi Clipboard. This was a simple project but also my first using the GitHub copilot. It allows the user to save multiple clipboards using a command line application. I used applications to convert into an executable as well as using another application to convert back from a .jar to a java file as the java file became corrupted.
@@ -44,6 +44,7 @@ A list of projects current and past that I have worked on. Anything marked as a 
 - Binary data type *Idea not fully fleshed out yet*
 - Red-Black-Tree *Worked on this as part of my university course but may be looking to remake this*
 - Linked list
+- Tik-Tac-Toe
 
 
 ## Plans
