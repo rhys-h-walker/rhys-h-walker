@@ -28,12 +28,12 @@ A list of projects current and past that I have worked on. Anything marked as a 
 
 - Rice Utilities. The aim for this project is to be a collection of different helpful functions that will assist in the development of future projects. Either copying them over into the new project or adding that java file into the directory for the new project. *Most likely will always be being worked on*
 
-- ricepos. This is an attempt to make a mock point of sale application. The aim of this project is to teach myself about JFX. There will be no database behind this it will use json files. This is a very early doors project and something that im excited to work on.
-
 ### Past
 - Multi Clipboard. This was a simple project but also my first using the GitHub copilot. It allows the user to save multiple clipboards using a command line application. I used applications to convert into an executable as well as using another application to convert back from a .jar to a java file as the java file became corrupted.
 
 - Merge Sort. Once again this is quite a self explanatory project and did not take too long. But it takes in an ArrayList of integers and sorts them using the merge sort algorithm.
+
+- ricepos. This is an attempt to make a mock point of sale application. The aim of this project is to teach myself about JFX. There will be no database behind this it will use json files. This project has finally up to a state that I am happy to say its functional. If you read the README of the project you will see that more needs to be done but the core functionality has been implemented and im going to take a break from working on it.
 
 ### Future
 *Many of these are basic and may end up bundled into one repository (Will be listed here if so)*
