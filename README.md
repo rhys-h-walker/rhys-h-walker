@@ -33,8 +33,6 @@ A list of projects current and past that I have worked on. Anything marked as a 
 
 - Merge Sort. Once again this is quite a self explanatory project and did not take too long. But it takes in an ArrayList of integers and sorts them using the merge sort algorithm.
 
-- ricepos. This is an attempt to make a mock point of sale application. The aim of this project is to teach myself about JFX. There will be no database behind this it will use json files. This project has finally up to a state that I am happy to say its functional. If you read the README of the project you will see that more needs to be done but the core functionality has been implemented and im going to take a break from working on it.
-
 ### Future
 *Many of these are basic and may end up bundled into one repository (Will be listed here if so)*
 - Stack
