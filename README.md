@@ -2,7 +2,7 @@
 Welcome to my GitHub profile.
 
 ## About Me
-Im a 19 year old student studying at the University Of Kent. This is my personal page for code that I work on in my spare time. Anything related to my course won't be worked on publicly here.  
+Im a 20 year old student studying at the University Of Kent. This is my personal page for code that I work on in my spare time. Anything related to my course won't be worked on publicly here.  
 
 ### Laguages I've Used
 - Python
@@ -16,7 +16,7 @@ Im a 19 year old student studying at the University Of Kent. This is my personal
 
 Some of these I know a lot better than others and most of them at a relatively surface level. Some like Python I've not touched in the better part of three years and languages like lua haven't been used since a project I worked on in sixth form.
 
-My current main language would be Java as it is used in most modules in my course and probably my prefered language.
+My current main language is Java where its used in most modules in my course.
 
 Most of what I work on here is for fun and isn't meant to be taken too seriously but if you have any suggestions then please let me know im always open to improve my coding style and effeciency.
 
